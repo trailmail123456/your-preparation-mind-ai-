@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# your-preparation-mind-ai-
+=======
+>>>>>>> new-feature
 # PrepMind AI — Deployment Guide
 
 ## Project Structure
@@ -57,3 +63,7 @@ vercel
 - NEVER put your API key directly in index.html
 - The serverless function keeps the key server-side and secure
 - Free tier on both Netlify & Vercel is sufficient for personal use
+<<<<<<< HEAD
+=======
+>>>>>>> 8d05a43 ( my first prep mind git upload)
+>>>>>>> new-feature
